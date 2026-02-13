@@ -40,6 +40,8 @@ Apache Tomcat Server
 
 HTML
 
+## 📂 Project Structure
+
 📦 MovieTicketBookingSystem
  ┣ 📂 src
  ┃ ┣ 📂 com.wipro.movie.util
@@ -65,6 +67,7 @@ HTML
  ┗ 📜 README.md
 
 ⚙️ Features
+
 ✅ Add Movie Ticket Booking
 
 Inserts booking details into the database
