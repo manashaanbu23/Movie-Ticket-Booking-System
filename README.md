@@ -42,29 +42,29 @@ HTML
 
 ## 📂 Project Structure
 
-📦 MovieTicketBookingSystem
- ┣ 📂 src
- ┃ ┣ 📂 com.wipro.movie.util
- ┃ ┃ ┣ 📜 DBUtil.java
- ┃ ┃ ┗ 📜 InvalidInputException.java
- ┃ ┣ 📂 com.wipro.movie.bean
- ┃ ┃ ┗ 📜 MovieBookingBean.java
- ┃ ┣ 📂 com.wipro.movie.dao
- ┃ ┃ ┗ 📜 MovieBookingDAO.java
- ┃ ┣ 📂 com.wipro.movie.service
- ┃ ┃ ┗ 📜 Administrator.java
- ┃ ┗ 📂 com.wipro.movie.servlets
- ┃   ┗ 📜 MainServlet.java
- ┣ 📂 WebContent
- ┃ ┣ 📜 menu.html
- ┃ ┣ 📜 addMovieBooking.jsp
- ┃ ┣ 📜 viewMovieBooking.jsp
- ┃ ┣ 📜 viewAllMovieBookings.jsp
- ┃ ┣ 📜 displayMovieBooking.jsp
- ┃ ┣ 📜 displayAllMovieBookings.jsp
- ┃ ┣ 📜 success.html
- ┃ ┗ 📜 error.html
- ┗ 📜 README.md
+MovieTicketBookingSystem
+├── src
+│   ├── com.wipro.movie.util
+│   │   ├── DBUtil.java
+│   │   └── InvalidInputException.java
+│   ├── com.wipro.movie.bean
+│   │   └── MovieBookingBean.java
+│   ├── com.wipro.movie.dao
+│   │   └── MovieBookingDAO.java
+│   ├── com.wipro.movie.service
+│   │   └── Administrator.java
+│   └── com.wipro.movie.servlets
+│       └── MainServlet.java
+├── WebContent
+│   ├── menu.html
+│   ├── addMovieBooking.jsp
+│   ├── viewMovieBooking.jsp
+│   ├── viewAllMovieBookings.jsp
+│   ├── displayMovieBooking.jsp
+│   ├── displayAllMovieBookings.jsp
+│   ├── success.html
+│   └── error.html
+└── README.md
 
 ⚙️ Features
 
