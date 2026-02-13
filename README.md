@@ -40,37 +40,29 @@ Apache Tomcat Server
 
 HTML
 
-📂 Project Structure
-MovieTicketBookingSystem/
-│
-├── src/
-│   ├── com.wipro.movie.util/
-│   │   ├── DBUtil.java
-│   │   ├── InvalidInputException.java
-│   │
-│   ├── com.wipro.movie.bean/
-│   │   ├── MovieBookingBean.java
-│   │
-│   ├── com.wipro.movie.dao/
-│   │   ├── MovieBookingDAO.java
-│   │
-│   ├── com.wipro.movie.service/
-│   │   ├── Administrator.java
-│   │
-│   ├── com.wipro.movie.servlets/
-│   │   ├── MainServlet.java
-│
-├── WebContent/
-│   ├── menu.html
-│   ├── addMovieBooking.jsp
-│   ├── viewMovieBooking.jsp
-│   ├── viewAllMovieBookings.jsp
-│   ├── displayMovieBooking.jsp
-│   ├── displayAllMovieBookings.jsp
-│   ├── success.html
-│   ├── error.html
-│
-└── README.md
+📦 MovieTicketBookingSystem
+ ┣ 📂 src
+ ┃ ┣ 📂 com.wipro.movie.util
+ ┃ ┃ ┣ 📜 DBUtil.java
+ ┃ ┃ ┗ 📜 InvalidInputException.java
+ ┃ ┣ 📂 com.wipro.movie.bean
+ ┃ ┃ ┗ 📜 MovieBookingBean.java
+ ┃ ┣ 📂 com.wipro.movie.dao
+ ┃ ┃ ┗ 📜 MovieBookingDAO.java
+ ┃ ┣ 📂 com.wipro.movie.service
+ ┃ ┃ ┗ 📜 Administrator.java
+ ┃ ┗ 📂 com.wipro.movie.servlets
+ ┃   ┗ 📜 MainServlet.java
+ ┣ 📂 WebContent
+ ┃ ┣ 📜 menu.html
+ ┃ ┣ 📜 addMovieBooking.jsp
+ ┃ ┣ 📜 viewMovieBooking.jsp
+ ┃ ┣ 📜 viewAllMovieBookings.jsp
+ ┃ ┣ 📜 displayMovieBooking.jsp
+ ┃ ┣ 📜 displayAllMovieBookings.jsp
+ ┃ ┣ 📜 success.html
+ ┃ ┗ 📜 error.html
+ ┗ 📜 README.md
 
 ⚙️ Features
 ✅ Add Movie Ticket Booking
@@ -139,6 +131,7 @@ Step 4: Run Application
 Open browser and run:
 
 http://localhost:8080/YourProjectName/menu.html
+
 📄 Pages Included
 
 <img width="971" height="423" alt="image" src="https://github.com/user-attachments/assets/e8047f81-5d75-4a99-bdd3-420f62780b08" />
