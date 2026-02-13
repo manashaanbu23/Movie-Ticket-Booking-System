@@ -40,22 +40,26 @@ Apache Tomcat Server
 
 HTML
 
-## 📂 Project Structure
-```bash
-MovieTicketBookingSystem
-├── src
-│   ├── com.wipro.movie.util
+MovieTicketBookingSystem/
+│
+├── src/
+│   ├── com.wipro.movie.util/
 │   │   ├── DBUtil.java
-│   │   └── InvalidInputException.java
-│   ├── com.wipro.movie.bean
-│   │   └── MovieBookingBean.java
-│   ├── com.wipro.movie.dao
-│   │   └── MovieBookingDAO.java
-│   ├── com.wipro.movie.service
-│   │   └── Administrator.java
-│   └── com.wipro.movie.servlets
-│       └── MainServlet.java
-├── WebContent
+│   │   ├── InvalidInputException.java
+│   │
+│   ├── com.wipro.movie.bean/
+│   │   ├── MovieBookingBean.java
+│   │
+│   ├── com.wipro.movie.dao/
+│   │   ├── MovieBookingDAO.java
+│   │
+│   ├── com.wipro.movie.service/
+│   │   ├── Administrator.java
+│   │
+│   ├── com.wipro.movie.servlets/
+│   │   ├── MainServlet.java
+│
+├── WebContent/
 │   ├── menu.html
 │   ├── addMovieBooking.jsp
 │   ├── viewMovieBooking.jsp
@@ -63,7 +67,8 @@ MovieTicketBookingSystem
 │   ├── displayMovieBooking.jsp
 │   ├── displayAllMovieBookings.jsp
 │   ├── success.html
-│   └── error.html
+│   ├── error.html
+│
 └── README.md
 
 ⚙️ Features
