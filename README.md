@@ -40,36 +40,8 @@ Apache Tomcat Server
 
 HTML
 
-MovieTicketBookingSystem/
-│
-├── src/
-│   ├── com.wipro.movie.util/
-│   │   ├── DBUtil.java
-│   │   ├── InvalidInputException.java
-│   │
-│   ├── com.wipro.movie.bean/
-│   │   ├── MovieBookingBean.java
-│   │
-│   ├── com.wipro.movie.dao/
-│   │   ├── MovieBookingDAO.java
-│   │
-│   ├── com.wipro.movie.service/
-│   │   ├── Administrator.java
-│   │
-│   ├── com.wipro.movie.servlets/
-│   │   ├── MainServlet.java
-│
-├── WebContent/
-│   ├── menu.html
-│   ├── addMovieBooking.jsp
-│   ├── viewMovieBooking.jsp
-│   ├── viewAllMovieBookings.jsp
-│   ├── displayMovieBooking.jsp
-│   ├── displayAllMovieBookings.jsp
-│   ├── success.html
-│   ├── error.html
-│
-└── README.md
+<img width="364" height="728" alt="image" src="https://github.com/user-attachments/assets/ec493288-9e61-4ed8-9db3-ebf546073868" />
+
 
 ⚙️ Features
 
