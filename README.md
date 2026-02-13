@@ -41,7 +41,7 @@ Apache Tomcat Server
 HTML
 
 ## 📂 Project Structure
-
+```bash
 MovieTicketBookingSystem
 ├── src
 │   ├── com.wipro.movie.util
